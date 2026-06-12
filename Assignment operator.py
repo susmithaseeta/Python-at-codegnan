@@ -1,0 +1,24 @@
+#Assignment Operator
+a=15
+print("Initial a=", a)
+a=15
+a+=2
+print("After +=2:", a)
+a=15
+a-=1
+print("After -=1:", a)
+a=15
+a*=3
+print("After *=3:", a)
+a=15
+a/=3
+print("After /=3:", a)
+a=15
+a%=3
+print("After %=3:", a)
+a=15
+a//=3
+print("After //=3:", a)
+a=15
+a**=3
+print("After **=3:", a)
